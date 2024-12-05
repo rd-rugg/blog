@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
+# Should I make a blog on GitHub Pages?
 
